@@ -14,10 +14,6 @@
  
     - In the Plant Disease Prediction application, users can submit an image of a diseased plant leaf. The application utilizes image analysis to identify the disease, providing users with insights into the ailment and suggesting potential remedies.
       
-## DATA SOURCE 
-- [](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) 
-- [](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
-
 ## DEPLOYMENT 
 #### This website is deployed at [render](https://www.render.com/)
 #### You can access it [here](https://growsync.onrender.com/)
